@@ -63,7 +63,7 @@
       "date": "12/10/2023",
       "duration": "10hr",
       "price":"5000",
-      "image": "https://media.wired.com/photos/63dc476e73cclass2b11b42eafa/master/w_2560%2Cc_limit/The-747-Should've-Retired-Years-Ago-Business-113915859.jpg",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtQHoBYlEJ9aQ5kv0b19KckAkIAa-5D7VduA&usqp=CAU",
       "seats": [
         { "num": 1, "isBooked": false },
         { "num": 2, "isBooked": true },
@@ -174,7 +174,7 @@
       "date": "19/09/2023",
       "duration": "8hr",
       "price":"9000",
-      "image": "https://www.airportspotting.com/wp-content/uploads/2023/02/B-2482_CAN_20.01.2019-1.jpg",
+      "image": "https://i.ytimg.com/vi/vQ6jZ3dIfB0/maxresdefault.jpg",
       "seats": [
         { "num": 1, "isBooked": false },
         { "num": 2, "isBooked": true },
@@ -330,7 +330,7 @@
       "date": "03/07/2023",
       "duration": "4hr",
       "price":"567",
-      "image": "https://example.com/bus3.jpg",
+      "image": "https://i.ytimg.com/vi/vQ6jZ3dIfB0/maxresdefault.jpg",
       "seats": [
         { "num": 1, "isBooked": true },
         { "num": 2, "isBooked": false },
